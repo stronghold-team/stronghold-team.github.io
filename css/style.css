@@ -149,6 +149,10 @@ ul.nav-pills  {
 
 }
 
+.text-green {
+    color: #489167;
+}
+
 .thumbnail {
   display: block;
   padding: 4px;
@@ -854,3 +858,6 @@ a.scrollup:hover{
 	width: 1.5em;
 }
 
+.img-responsive {
+	margin: 0 auto;
+}
